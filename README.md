@@ -15,7 +15,7 @@ Note: The course is in progress and projects will be added and updated continous
 
 ## CRWN CLOTHING
 
-[Cwrn clothing](https://github.com/jakeberggren/Udemy-Complete-React-Developer/tree/main/crwn-clothing) is the course's capstone project and is a fullstack e-commerce application with features such as fully integrated backend using Firebase and ability to log in with Google with firebase auth. The project uses everything previously learned in the course as well as React-hooks, router and context.
+[Cwrn Clothing](https://github.com/jakeberggren/Udemy-Complete-React-Developer/tree/main/crwn-clothing) is the course's capstone project and is a fullstack e-commerce application with features such as fully integrated backend using Firebase and ability to log in with Google with firebase auth. The project uses everything previously learned in the course as well as React-hooks, router and context.
 
 ### Tools used
 <a href="https://reactjs.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> <a href="https://firebase.google.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
