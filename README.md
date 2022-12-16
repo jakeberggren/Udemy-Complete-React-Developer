@@ -8,7 +8,7 @@ Note: The course is in progress and projects will be added and updated continous
 
 ## MONSTERS ROLODEX
 
-[Monsters Rolodex](https://github.com/jakeberggren/Udemy-Complete-React-Developer/tree/main/crwn-clothing) is a simple rolodex app which fetches data from a JSON mock server to display cards of different monsters and provides a search function to filter through them. This is the first project in the course, and aims to show the basics of React, React-DOM and how React renders different components on the page.
+[Monsters Rolodex](https://github.com/jakeberggren/Udemy-Complete-React-Developer/tree/main/monsters-rolodex) is a simple rolodex app which fetches data from a JSON mock server to display cards of different monsters and provides a search function to filter through them. This is the first project in the course, and aims to show the basics of React, React-DOM and how React renders different components on the page.
 
 ### Tools used
 <a href="https://reactjs.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
